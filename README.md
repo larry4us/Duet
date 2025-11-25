@@ -22,6 +22,7 @@ O objetivo do Duet é simplificar a comunicação do dia a dia e promover equil�
 <p align="center">
   <img src="assets/Screens/Dashboard.png" width="220"/>
   <img src="assets/Screens/Tasks.png" width="220"/>
+    <img src="assets/Screens/Deals.png" width="220"/>
 </p>
 
 ---
