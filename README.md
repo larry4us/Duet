@@ -13,7 +13,7 @@ O objetivo do Duet é simplificar a comunicação do dia a dia e promover equil�
 
 ---
 
-## 💡 O que o Duet faz
+## O que o Duet faz
 
 - **Distribuição rápida de tarefas:** organização intuitiva das atividades da casa, com alertas quando alguém está sobrecarregado.  
 - **Renegociação de responsabilidades:** permite revisar acordos e equilibrar a rotina conforme a necessidade do casal.  
@@ -26,9 +26,9 @@ O objetivo do Duet é simplificar a comunicação do dia a dia e promover equil�
 
 ---
 
-## 🏗 Arquitetura
+## Arquitetura
 
-O Duet utiliza uma arquitetura modular baseada em **MVVM-C**, organizada por **Domínios** para manter o código escalável, limpo e fácil de evoluir.
+O Duet utiliza uma arquitetura modular baseada em **MVVM-C**, organizada por **Domínios**.
 
 Cada domínio agrupa tudo o que é relacionado a uma funcionalidade específica do app — incluindo Model, ViewModel, Views e Components.
 
@@ -85,7 +85,7 @@ Essa estrutura favorece:
 
 ---
 
-### 🔀 **Navegação: Coordinator Pattern**
+### **Navegação: Coordinator Pattern**
 
 O app utiliza um **Coordinator** para gerenciar fluxos de navegação de forma:
 
@@ -98,7 +98,7 @@ Isso evita que Views fiquem responsáveis pela navegação e permite que toda a 
 
 ---
 
-### 🛠 **Serviços**
+### **Serviços**
 
 Os serviços ficam na pasta `Services/` e são responsáveis por:
 
@@ -111,7 +111,7 @@ Cada serviço é isolado, testável e pode ser injetado nos ViewModels.
 
 ---
 
-### 🧱 **Common Components**
+### **Common Components**
 
 Componentes visuais reutilizáveis que podem ser usados em qualquer domínio.  
 Exemplos:
