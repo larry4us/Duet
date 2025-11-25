@@ -142,3 +142,4 @@ Projeto colaborativo desenvolvido por:
 - **Pedro Larry**
 - **Amanda Rabelo** (https://github.com/amandrbl)
 - **Ana Beatriz Seixas** (https://github.com/aseixas7)
+- **Leticia Lima (Designer)** (https://www.linkedin.com/in/leticia-lima-de-souza/) 
