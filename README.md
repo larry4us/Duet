@@ -1,6 +1,6 @@
 # Duet
 
-![](Assets/CapaDuet.png)
+!(/assets/CapaDuet.png)
 
 O **Duet** é um aplicativo para iOS criado para ajudar casais — especialmente millenials que estão começando a morar juntos — a lidar com tensões e desequilíbrios na divisão das tarefas domésticas.  
 O app torna a rotina compartilhada mais leve, justa e colaborativa.
