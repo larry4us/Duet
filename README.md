@@ -19,6 +19,11 @@ O objetivo do Duet é simplificar a comunicação do dia a dia e promover equil�
 - **Renegociação de responsabilidades:** permite revisar acordos e equilibrar a rotina conforme a necessidade do casal.  
 - **Reforça o romance do casal:** lembra datas importantes e recompensa quem contribui mais com cupons simbólicos (ex: massagem, jantar, surpresa).
 
+![](assets/CapaDuet.png)
+![](assets/Screens/Dashboard.png)
+![](assets/Screens/Tasks.png)
+![](assets/Screens/Deals.png)
+
 ---
 
 ## 🏗 Arquitetura
